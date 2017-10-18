@@ -1,0 +1,23 @@
+
+# html lang
+language: en
+
+# main menu navigation
+menu:
+  首页: /
+  归档: /archives
+
+# Miscelaneous
+favicon: /favicon.ico
+
+# stylesheets loaded in the <head>
+stylesheets:
+- /css/z-index.css
+
+# scripts loaded in the end of the body
+scripts:
+- /js/zepto.js
+- /js/sweetalert.min.js
+- /js/z-index.js
+
+
